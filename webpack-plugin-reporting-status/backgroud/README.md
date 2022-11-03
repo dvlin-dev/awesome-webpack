@@ -1,37 +1,21 @@
-# react-webpack-template
+# start
 
-# Author reminder
+yarn 
 
-If you want to use this template, it is a finished product except for business components,business components just a demo
+npm run build
 
-## ability
-
-- HMR
-- File fingerprint
-- autoprefixer
-- Compress for HTML、CSS、JS
-  - html-webpack-plugin
-  - uglifyjs-webpack-plugin
-  - optimize-css-assets-wepack-plugin and cssnano
-- split base library
-  - SplitChunksPlugin and html-webpack-externals-plugin
-- Source-map
-- Tree-shaking
-- Eslint
-  - eslint-config-airbnb
-- Parallel compression
-  - terser-webpack-plugin
-- multi process
-  - thread-loader
-- cache
-- dynamic Polyfill
-
-## TODO
-
-- [ ] SSR
-- [ ] PWA
-
-## Undetermined
-
-- [ ] px to rem
-- [ ] DLL
+```json
+{
+  hash: '80ed218b2dcdc221f923',
+  version: '5.72.0',
+  time: 10008,
+  builtAt: 1667463011050,
+  chunks: [
+    { files: 'js/vendors.590a95d1.bundle.js', size: 137003 },
+    { files: 'js/index.8164480d.bundle.js', size: 3287 }
+  ],
+  warnings: [],
+  errors: []
+}
+上报接口为： www.baidu.com
+```
