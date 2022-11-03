@@ -4,7 +4,7 @@ yarn
 
 npm run build
 
-```json
+```
 {
   hash: '80ed218b2dcdc221f923',
   version: '5.72.0',
@@ -17,5 +17,5 @@ npm run build
   warnings: [],
   errors: []
 }
-上报接口为： www.baidu.com
+上报接口为： xxx
 ```
